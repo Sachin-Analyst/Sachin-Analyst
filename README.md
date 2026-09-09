@@ -14,7 +14,7 @@ Most of my projects start with curiosity. Sometimes it's a color idea that shape
 
 Everything I build is rooted in one habit: ask the business question first, then pick the tool.
 
-## A bit about me
+## A Little About Me
 
 I studied Retail Management, not Computer Science. That background taught me to think about why a number matters before I calculate it, and I carry that into every project.
 
