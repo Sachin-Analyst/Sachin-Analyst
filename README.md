@@ -27,4 +27,4 @@ Everything I build is rooted in one habit: ask the business question first, then
 
 ---
 
-[<img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="32" width="32">](https://www.linkedin.com/in/vishnu-ram-sachin-d-/)&nbsp;&nbsp;&nbsp;[<img src="https://cdn.simpleicons.org/youtube/FF0000" height="32" width="32">](https://www.youtube.com/@the_sachin_d)&nbsp;&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/Sachin-Analyst/Sachin-Analyst/main/Assets/sachin_logo.png" height="32">](https://sachin-ai-portfolio-2026.vercel.app/)
+[<img src="https://raw.githubusercontent.com/Sachin-Analyst/Sachin-Analyst/main/Assets/Linkedin_Logo.png" height="32" width="32">](https://www.linkedin.com/in/vishnu-ram-sachin-d-/)&nbsp;&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/Sachin-Analyst/Sachin-Analyst/main/Assets/Youtube_Logo.png" height="32" width="32">](https://www.youtube.com/@the_sachin_d)&nbsp;&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/Sachin-Analyst/Sachin-Analyst/main/Assets/sachin_logo.png" height="32">](https://sachin-ai-portfolio-2026.vercel.app/)
