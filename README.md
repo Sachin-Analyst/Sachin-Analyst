@@ -2,7 +2,7 @@
 
 I turn business questions into data decisions.
 
-Most of my projects start the same way. An idea sparks, sometimes it's just a color, sometimes a question I can't stop thinking about, and I follow it until something real exists. That's how I've built dashboards, AI tools, agents, and things I didn't have a name for when I started.
+Most of my projects start with curiosity. Sometimes it's a color choice that pulls me into redesigning an entire dashboard. Sometimes it's a question nobody is asking yet, and I can't leave it alone until I find the answer. The moment something clicks, I open my laptop. That's where the work happens.
 
 **Lately, I've been working on**
 
