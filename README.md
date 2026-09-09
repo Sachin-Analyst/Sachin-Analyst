@@ -24,4 +24,4 @@ I'm currently open to **Data Analyst roles** where the work starts with a proble
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](PASTE_LINKEDIN_URL_HERE) · [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](PASTE_YOUTUBE_URL_HERE) · [Sachin's AI](PASTE_PORTFOLIO_URL_HERE)
+[![Sachin's AI](https://raw.githubusercontent.com/Sachin-Analyst/Sachin-Analyst/main/Assets/sachin_logo.png)](PASTE_PORTFOLIO_URL_HERE) · [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](PASTE_LINKEDIN_URL_HERE) · [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](PASTE_YOUTUBE_URL_HERE)
