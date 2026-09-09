@@ -2,10 +2,10 @@
 
 I turn business questions into data decisions.
 
--- Most of my projects start with curiosity. 
--- Sometimes it's a color idea that shapes how the entire dashboard gets designed and built. 
--- Sometimes it's a research question where I connect patterns to results, and understand how a business is performing today and where it is heading. 
--- The moment something clicks, I open my laptop. That's where the work happens.
+- Most of my projects start with curiosity. 
+- Sometimes it's a color idea that shapes how the entire dashboard gets designed and built. 
+- Sometimes it's a research question where I connect patterns to results, and understand how a business is performing today and where it is heading. 
+- The moment something clicks, I open my laptop. That's where the work happens.
 
 **Lately, I've been working on**
 
@@ -23,7 +23,7 @@ Everything I build is rooted in one habit: ask the business question first, then
 
 --- I completed a Data Analyst internship at AtliQ Technologies, where I worked on real business problems across sales, finance, and operations data.
 
---- I’m currently open to **Data Analyst** roles where I can transform Raw Data > Insights > KPIs (Revenue, Customer) > Competitive Advantage
+--- I’m currently open to **Data Analyst** roles where I can transform Raw Data > Insights > KPIs (Revenue, Customer) > Competitive Advantage.
 
 ---
 
