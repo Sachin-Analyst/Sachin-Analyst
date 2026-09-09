@@ -7,8 +7,8 @@ Most of my projects start the same way. An idea sparks, sometimes it's just a co
 **Lately, I've been working on**
 
 - Analyzing business data using SQL, Power BI, and Excel, from raw tables to reports that answer real questions
-- Presenting that work through video and design documents, because the analysis means nothing if it doesn't communicate
-- Building a Chrome Extension to cut out the repetitive parts of my daily workflow
+- Presenting that work through video and design documents, so the story behind the data reaches the right people
+- Building a Chrome Extension to bring focus and speed into my daily workflow
 - Automating email drafting and sending with an AI Email Agent, keeping a human in the loop for every decision
 - Using Claude and Antigravity to write PRDs, plan projects, and move from idea to execution faster
 
