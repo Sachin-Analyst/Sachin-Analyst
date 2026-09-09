@@ -6,10 +6,11 @@ Most of my projects start the same way. An idea sparks, sometimes it's just a co
 
 **Lately, I've been working on**
 
-- Insurance analytics dashboard in Power BI, policy trends, agent performance, MoM growth
-- An AI-powered portfolio that lets you talk to my work directly
-- An Email Agent that drafts, reviews, and sends with a human in the loop
-- Public learning on SQL, Power BI, and data thinking on LinkedIn every week
+- Analyzing business data using SQL, Power BI, and Excel, from raw tables to reports that answer real questions
+- Presenting that work through video and design documents, because the analysis means nothing if it doesn't communicate
+- Building a Chrome Extension to cut out the repetitive parts of my daily workflow
+- Automating email drafting and sending with an AI Email Agent, keeping a human in the loop for every decision
+- Using Claude and Antigravity to write PRDs, plan projects, and move from idea to execution faster
 
 Everything I build is rooted in one habit: ask the business question first, then pick the tool.
 
