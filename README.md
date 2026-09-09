@@ -2,7 +2,7 @@
 
 I turn business questions into data decisions.
 
-Most of my projects start with curiosity. Sometimes it's a color choice that pulls me into redesigning an entire dashboard. Sometimes it's a question nobody is asking yet, and I can't leave it alone until I find the answer. The moment something clicks, I open my laptop. That's where the work happens.
+Most of my projects start with curiosity. Sometimes it's a color idea that shapes how the entire dashboard gets designed and built. Sometimes it's a question nobody is asking yet, and I follow it all the way to an answer. The moment something clicks, I open my laptop. That's where the work happens.
 
 **Lately, I've been working on**
 
