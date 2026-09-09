@@ -16,11 +16,11 @@ Everything I build is rooted in one habit: ask the business question first, then
 
 ## A Little About Me
 
-I studied Retail Management, not Computer Science. That background taught me to think about why a number matters before I calculate it, and I carry that into every project.
+--- I studied Retail Management, not Computer Science. That background taught me to think about why a number matters before I calculate it, and I carry that into every project.
 
-I completed a Data Analyst internship at AtliQ Technologies, where I worked on real business problems across sales, finance, and operations data.
+--- I completed a Data Analyst internship at AtliQ Technologies, where I worked on real business problems across sales, finance, and operations data.
 
-I'm currently open to **Data Analyst roles** where the work starts with a problem, not a dashboard.
+--- I’m currently open to **Data Analyst** roles where I can transform Raw Data > Insights > KPIs (Revenue, Customer) > Competitive Advantage
 
 ---
 
