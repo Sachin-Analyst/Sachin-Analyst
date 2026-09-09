@@ -9,11 +9,15 @@ I turn business questions into data decisions.
 
 **Lately, I've been working on**
 
--- Analyzing business data using SQL, Power BI, and Excel, from raw tables to reports that answer real questions
--- Presenting that work through video and design documents, so the story behind the data reaches the right people
--- Building a Chrome Extension to bring focus and speed into my daily workflow
--- Automating email drafting and sending with an AI Email Agent, keeping a human in the loop for every decision
--- Using Claude and Antigravity to write PRDs, plan projects, and move from idea to execution faster
+-- Analyzing business data using SQL, Power BI, and Excel, from raw tables to reports that answer real questions.
+
+-- Presenting that work through video and design documents, so the story behind the data reaches the right people.
+
+-- Building a Chrome Extension to bring focus and speed into my daily workflow.
+
+-- Automating email drafting and sending with an AI Email Agent, keeping a human in the loop for every decision.
+
+-- Using Claude and Antigravity to write PRDs, plan projects, and move from idea to execution faster.
 
 Everything I build is rooted in one habit: ask the business question first, then pick the tool.
 
